@@ -1,4 +1,4 @@
-package com.changfubai.hbase.dao;
+﻿package com.changfubai.hbase.dao;
 
 import org.apache.hadoop.hbase.TableName;
 
@@ -7,6 +7,6 @@ import org.apache.hadoop.hbase.TableName;
  */
 public class Config {
     public static final String DEPT = "dept";
-    public static final String IP_REMOTE = "120.24.37.204";
+    public static final String IP_REMOTE = "yourip";
     public static final String EX_CONNECTION = "connection创建失败！------------";
 }
